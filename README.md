@@ -1,3 +1,3 @@
 # rm-rf
 
-_i don't know if this repository works_ 🙃
+_I don't know if this repository works_ 🙃
