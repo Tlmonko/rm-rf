@@ -1,3 +1,3 @@
 # rm-rf
 
-_I am using ubuntu as main system btw_
+_i don't know if this repository works_ 🙃
